@@ -1,1 +1,1 @@
-/usr/bin/g++ -g -rdynamic CMakeFiles/manage.dir/main.o -o manage   -L/home/bash/projects/chameleon/chameleon  -L/home/bash/projects/chameleon/chameleon/hiberlite  -Wl,-rpath,/home/bash/projects/chameleon/chameleon:/home/bash/projects/chameleon/chameleon/hiberlite -Wl,-Bstatic -lchameleon -lhiberlite -Wl,-Bdynamic 
+/usr/bin/g++ -g -rdynamic CMakeFiles/manage.dir/main.o -o manage  chameleon/hiberlite/libhiberlite.a chameleon/libchameleon.a 

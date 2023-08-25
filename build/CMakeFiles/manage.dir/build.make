@@ -92,6 +92,8 @@ manage_EXTERNAL_OBJECTS =
 
 manage: CMakeFiles/manage.dir/main.o
 manage: CMakeFiles/manage.dir/build.make
+manage: chameleon/hiberlite/libhiberlite.a
+manage: chameleon/libchameleon.a
 manage: CMakeFiles/manage.dir/link.txt
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/bash/projects/chameleon/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX executable manage"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/manage.dir/link.txt --verbose=$(VERBOSE)

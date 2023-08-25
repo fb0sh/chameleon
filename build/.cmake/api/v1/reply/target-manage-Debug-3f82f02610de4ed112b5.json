@@ -11,7 +11,6 @@
 		"commands" : 
 		[
 			"add_executable",
-			"LINK_DIRECTORIES",
 			"target_link_libraries"
 		],
 		"files" : 
@@ -26,25 +25,13 @@
 			{
 				"command" : 0,
 				"file" : 0,
+				"line" : 12,
+				"parent" : 0
+			},
+			{
+				"command" : 1,
+				"file" : 0,
 				"line" : 13,
-				"parent" : 0
-			},
-			{
-				"command" : 1,
-				"file" : 0,
-				"line" : 5,
-				"parent" : 0
-			},
-			{
-				"command" : 1,
-				"file" : 0,
-				"line" : 6,
-				"parent" : 0
-			},
-			{
-				"command" : 2,
-				"file" : 0,
-				"line" : 14,
 				"parent" : 0
 			}
 		]
@@ -73,6 +60,17 @@
 			]
 		}
 	],
+	"dependencies" : 
+	[
+		{
+			"backtrace" : 2,
+			"id" : "hiberlite::@d58aa5fba7bf6e6b9ac2"
+		},
+		{
+			"backtrace" : 2,
+			"id" : "chameleon::@ade2cc649cb69da925a3"
+		}
+	],
 	"id" : "manage::@6890427a1f51a3e7e1df",
 	"link" : 
 	{
@@ -88,34 +86,12 @@
 			},
 			{
 				"backtrace" : 2,
-				"fragment" : "-L/home/bash/projects/chameleon/chameleon",
-				"role" : "libraryPath"
-			},
-			{
-				"backtrace" : 3,
-				"fragment" : "-L/home/bash/projects/chameleon/chameleon/hiberlite",
-				"role" : "libraryPath"
-			},
-			{
-				"fragment" : "-Wl,-rpath,/home/bash/projects/chameleon/chameleon:/home/bash/projects/chameleon/chameleon/hiberlite",
+				"fragment" : "chameleon/hiberlite/libhiberlite.a",
 				"role" : "libraries"
 			},
 			{
-				"fragment" : "-Wl,-Bstatic",
-				"role" : "libraries"
-			},
-			{
-				"backtrace" : 4,
-				"fragment" : "-lchameleon",
-				"role" : "libraries"
-			},
-			{
-				"backtrace" : 4,
-				"fragment" : "-lhiberlite",
-				"role" : "libraries"
-			},
-			{
-				"fragment" : "-Wl,-Bdynamic",
+				"backtrace" : 2,
+				"fragment" : "chameleon/libchameleon.a",
 				"role" : "libraries"
 			}
 		],

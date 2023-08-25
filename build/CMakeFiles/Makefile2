@@ -113,7 +113,8 @@ chameleon/hiberlite/clean: chameleon/hiberlite/CMakeFiles/hiberlite.dir/clean
 # Target rules for target CMakeFiles/manage.dir
 
 # All Build rule for target.
-CMakeFiles/manage.dir/all:
+CMakeFiles/manage.dir/all: chameleon/hiberlite/CMakeFiles/hiberlite.dir/all
+CMakeFiles/manage.dir/all: chameleon/CMakeFiles/chameleon.dir/all
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/manage.dir/build.make CMakeFiles/manage.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/manage.dir/build.make CMakeFiles/manage.dir/build
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/bash/projects/chameleon/build/CMakeFiles --progress-num=17,18 "Built target manage"
@@ -121,7 +122,7 @@ CMakeFiles/manage.dir/all:
 
 # Build rule for subdir invocation for target.
 CMakeFiles/manage.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/bash/projects/chameleon/build/CMakeFiles 2
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/bash/projects/chameleon/build/CMakeFiles 18
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 CMakeFiles/manage.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/bash/projects/chameleon/build/CMakeFiles 0
 .PHONY : CMakeFiles/manage.dir/rule
