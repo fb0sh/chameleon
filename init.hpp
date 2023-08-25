@@ -18,6 +18,7 @@ void __init_dbs__(){
 
 
 void __init_urls__(){
+        cl.setDebug(0);
 	// init each app urls
     example::init_urls();
 

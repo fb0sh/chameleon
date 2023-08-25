@@ -81,3 +81,7 @@ void path(const char *url_mode, void *f) {
 	patterns.insert({ url_mode,f });
 }
 
+void url(const char *regex_mode, void *f){
+	// endure
+}
+

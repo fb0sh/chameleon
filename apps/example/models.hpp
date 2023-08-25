@@ -7,7 +7,7 @@ public:
     void hibernate(Archive &ar){
         ar & HIBERLITE_NVP(id);
     }
-    json toJsonObj(){
+    inja::json toJsonObj(){
         return { {"id",this->id} };
     }
     

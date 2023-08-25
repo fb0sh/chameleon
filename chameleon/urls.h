@@ -27,6 +27,6 @@ void __handle__patterns__();
 string contain(HttpRequest &request);
 void matcher(HttpRequest &request);
 void path(const char *url_mode, void *f);
-
+void url(const char *regex_mode, void *f);// todo
 
 #endif // !CHAMELEON_URLS

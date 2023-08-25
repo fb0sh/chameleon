@@ -12,5 +12,5 @@ void test_example(HttpRequest *request) {
 		final_text = e.what();
 	}
 	
-	NewHttpResponse(request, final_text);
+	return NewHttpResponse(request, final_text);
 }
