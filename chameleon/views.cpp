@@ -6,7 +6,7 @@ void chameleon(HttpRequest *request) {
 }
 
 void notfound(HttpRequest *request) {
-	return NewFileResponse(request, "template/404.html", "400");
+	return NewFileResponse(request, "template/404.html", "404");
 }
 
 void handle_static(HttpRequest *request) {

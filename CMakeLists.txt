@@ -9,5 +9,6 @@ project(chameleon)
 	add_subdirectory(chameleon)
 
 	message(STATUS "build manage")
+	find_package(Threads)
 	add_executable(manage main.cpp)
-	target_link_libraries(manage hiberlite chameleon)
+	target_link_libraries(manage hiberlite chameleon ${CMAKE_THREAD_LIBS_INIT} dl)
