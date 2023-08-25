@@ -1,0 +1,9 @@
+/home/bash/projects/chameleon/build/CMakeFiles/manage.dir
+/home/bash/projects/chameleon/build/CMakeFiles/edit_cache.dir
+/home/bash/projects/chameleon/build/CMakeFiles/rebuild_cache.dir
+/home/bash/projects/chameleon/build/chameleon/hiberlite/CMakeFiles/hiberlite.dir
+/home/bash/projects/chameleon/build/chameleon/hiberlite/CMakeFiles/edit_cache.dir
+/home/bash/projects/chameleon/build/chameleon/hiberlite/CMakeFiles/rebuild_cache.dir
+/home/bash/projects/chameleon/build/chameleon/CMakeFiles/chameleon.dir
+/home/bash/projects/chameleon/build/chameleon/CMakeFiles/edit_cache.dir
+/home/bash/projects/chameleon/build/chameleon/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,2 @@
+/usr/bin/ar qc libchameleon.a CMakeFiles/chameleon.dir/http.o CMakeFiles/chameleon.dir/urls.o CMakeFiles/chameleon.dir/views.o
+/usr/bin/ranlib libchameleon.a

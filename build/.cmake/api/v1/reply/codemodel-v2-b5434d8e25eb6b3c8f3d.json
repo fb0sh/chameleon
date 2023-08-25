@@ -1,0 +1,115 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1,
+						2
+					],
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						2
+					]
+				},
+				{
+					"build" : "chameleon/hiberlite",
+					"jsonFile" : "directory-chameleon.hiberlite-Debug-807cb47b16ee5f1a372d.json",
+					"parentIndex" : 0,
+					"projectIndex" : 1,
+					"source" : "chameleon/hiberlite",
+					"targetIndexes" : 
+					[
+						1
+					]
+				},
+				{
+					"build" : "chameleon",
+					"jsonFile" : "directory-chameleon-Debug-661472a62202282b1bbe.json",
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "chameleon",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"childIndexes" : 
+					[
+						1
+					],
+					"directoryIndexes" : 
+					[
+						0,
+						2
+					],
+					"name" : "chameleon",
+					"targetIndexes" : 
+					[
+						0,
+						2
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						1
+					],
+					"name" : "hiberlite",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						1
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 2,
+					"id" : "chameleon::@ade2cc649cb69da925a3",
+					"jsonFile" : "target-chameleon-Debug-d693ea392800026d559f.json",
+					"name" : "chameleon",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "hiberlite::@d58aa5fba7bf6e6b9ac2",
+					"jsonFile" : "target-hiberlite-Debug-d5796d61f5eb7df53eba.json",
+					"name" : "hiberlite",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "manage::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-manage-Debug-0c5df82a46c1c9777f61.json",
+					"name" : "manage",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/bash/projects/chameleon/build",
+		"source" : "/home/bash/projects/chameleon"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}

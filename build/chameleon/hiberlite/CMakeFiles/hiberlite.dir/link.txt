@@ -1,0 +1,2 @@
+/usr/bin/ar qc libhiberlite.a CMakeFiles/hiberlite.dir/BeanLoader.o CMakeFiles/hiberlite.dir/BeanUpdater.o CMakeFiles/hiberlite.dir/ChildKiller.o CMakeFiles/hiberlite.dir/CppModel.o CMakeFiles/hiberlite.dir/Database.o CMakeFiles/hiberlite.dir/ModelExtractor.o CMakeFiles/hiberlite.dir/Registry.o CMakeFiles/hiberlite.dir/SQLiteStmt.o CMakeFiles/hiberlite.dir/Visitor.o CMakeFiles/hiberlite.dir/shared_res.o CMakeFiles/hiberlite.dir/sqlite3.o
+/usr/bin/ranlib libhiberlite.a

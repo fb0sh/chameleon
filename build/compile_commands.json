@@ -1,0 +1,77 @@
+[
+{
+  "directory": "/home/bash/projects/chameleon/build",
+  "command": "/usr/bin/g++   -g -o CMakeFiles/manage.dir/main.o -c /home/bash/projects/chameleon/main.cpp",
+  "file": "/home/bash/projects/chameleon/main.cpp"
+},
+{
+  "directory": "/home/bash/projects/chameleon/build/chameleon/hiberlite",
+  "command": "/usr/bin/g++  -I/home/bash/projects/chameleon/chameleon/hiberlite/. -g -o CMakeFiles/hiberlite.dir/BeanLoader.o -c /home/bash/projects/chameleon/chameleon/hiberlite/BeanLoader.cpp",
+  "file": "/home/bash/projects/chameleon/chameleon/hiberlite/BeanLoader.cpp"
+},
+{
+  "directory": "/home/bash/projects/chameleon/build/chameleon/hiberlite",
+  "command": "/usr/bin/g++  -I/home/bash/projects/chameleon/chameleon/hiberlite/. -g -o CMakeFiles/hiberlite.dir/BeanUpdater.o -c /home/bash/projects/chameleon/chameleon/hiberlite/BeanUpdater.cpp",
+  "file": "/home/bash/projects/chameleon/chameleon/hiberlite/BeanUpdater.cpp"
+},
+{
+  "directory": "/home/bash/projects/chameleon/build/chameleon/hiberlite",
+  "command": "/usr/bin/g++  -I/home/bash/projects/chameleon/chameleon/hiberlite/. -g -o CMakeFiles/hiberlite.dir/ChildKiller.o -c /home/bash/projects/chameleon/chameleon/hiberlite/ChildKiller.cpp",
+  "file": "/home/bash/projects/chameleon/chameleon/hiberlite/ChildKiller.cpp"
+},
+{
+  "directory": "/home/bash/projects/chameleon/build/chameleon/hiberlite",
+  "command": "/usr/bin/g++  -I/home/bash/projects/chameleon/chameleon/hiberlite/. -g -o CMakeFiles/hiberlite.dir/CppModel.o -c /home/bash/projects/chameleon/chameleon/hiberlite/CppModel.cpp",
+  "file": "/home/bash/projects/chameleon/chameleon/hiberlite/CppModel.cpp"
+},
+{
+  "directory": "/home/bash/projects/chameleon/build/chameleon/hiberlite",
+  "command": "/usr/bin/g++  -I/home/bash/projects/chameleon/chameleon/hiberlite/. -g -o CMakeFiles/hiberlite.dir/Database.o -c /home/bash/projects/chameleon/chameleon/hiberlite/Database.cpp",
+  "file": "/home/bash/projects/chameleon/chameleon/hiberlite/Database.cpp"
+},
+{
+  "directory": "/home/bash/projects/chameleon/build/chameleon/hiberlite",
+  "command": "/usr/bin/g++  -I/home/bash/projects/chameleon/chameleon/hiberlite/. -g -o CMakeFiles/hiberlite.dir/ModelExtractor.o -c /home/bash/projects/chameleon/chameleon/hiberlite/ModelExtractor.cpp",
+  "file": "/home/bash/projects/chameleon/chameleon/hiberlite/ModelExtractor.cpp"
+},
+{
+  "directory": "/home/bash/projects/chameleon/build/chameleon/hiberlite",
+  "command": "/usr/bin/g++  -I/home/bash/projects/chameleon/chameleon/hiberlite/. -g -o CMakeFiles/hiberlite.dir/Registry.o -c /home/bash/projects/chameleon/chameleon/hiberlite/Registry.cpp",
+  "file": "/home/bash/projects/chameleon/chameleon/hiberlite/Registry.cpp"
+},
+{
+  "directory": "/home/bash/projects/chameleon/build/chameleon/hiberlite",
+  "command": "/usr/bin/g++  -I/home/bash/projects/chameleon/chameleon/hiberlite/. -g -o CMakeFiles/hiberlite.dir/SQLiteStmt.o -c /home/bash/projects/chameleon/chameleon/hiberlite/SQLiteStmt.cpp",
+  "file": "/home/bash/projects/chameleon/chameleon/hiberlite/SQLiteStmt.cpp"
+},
+{
+  "directory": "/home/bash/projects/chameleon/build/chameleon/hiberlite",
+  "command": "/usr/bin/g++  -I/home/bash/projects/chameleon/chameleon/hiberlite/. -g -o CMakeFiles/hiberlite.dir/Visitor.o -c /home/bash/projects/chameleon/chameleon/hiberlite/Visitor.cpp",
+  "file": "/home/bash/projects/chameleon/chameleon/hiberlite/Visitor.cpp"
+},
+{
+  "directory": "/home/bash/projects/chameleon/build/chameleon/hiberlite",
+  "command": "/usr/bin/g++  -I/home/bash/projects/chameleon/chameleon/hiberlite/. -g -o CMakeFiles/hiberlite.dir/shared_res.o -c /home/bash/projects/chameleon/chameleon/hiberlite/shared_res.cpp",
+  "file": "/home/bash/projects/chameleon/chameleon/hiberlite/shared_res.cpp"
+},
+{
+  "directory": "/home/bash/projects/chameleon/build/chameleon/hiberlite",
+  "command": "/usr/bin/gcc  -I/home/bash/projects/chameleon/chameleon/hiberlite/. -g -o CMakeFiles/hiberlite.dir/sqlite3.o -c /home/bash/projects/chameleon/chameleon/hiberlite/sqlite3.c",
+  "file": "/home/bash/projects/chameleon/chameleon/hiberlite/sqlite3.c"
+},
+{
+  "directory": "/home/bash/projects/chameleon/build/chameleon",
+  "command": "/usr/bin/g++  -I/home/bash/projects/chameleon/chameleon/. -g -o CMakeFiles/chameleon.dir/http.o -c /home/bash/projects/chameleon/chameleon/http.cpp",
+  "file": "/home/bash/projects/chameleon/chameleon/http.cpp"
+},
+{
+  "directory": "/home/bash/projects/chameleon/build/chameleon",
+  "command": "/usr/bin/g++  -I/home/bash/projects/chameleon/chameleon/. -g -o CMakeFiles/chameleon.dir/urls.o -c /home/bash/projects/chameleon/chameleon/urls.cpp",
+  "file": "/home/bash/projects/chameleon/chameleon/urls.cpp"
+},
+{
+  "directory": "/home/bash/projects/chameleon/build/chameleon",
+  "command": "/usr/bin/g++  -I/home/bash/projects/chameleon/chameleon/. -g -o CMakeFiles/chameleon.dir/views.o -c /home/bash/projects/chameleon/chameleon/views.cpp",
+  "file": "/home/bash/projects/chameleon/chameleon/views.cpp"
+}
+]

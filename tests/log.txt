@@ -1,0 +1,126 @@
+[2023-8-24 8:37:25.1692837445091] [FATAL] init socket error
+[2023-8-24 8:37:45.1692837465161] [FATAL] init socket error
+[2023-8-24 8:37:56.1692837476990] [FATAL] init socket error
+[2023-8-24 8:38:4.1692837484265] [INFO] HttpServer init on http://0.0.0.0:3147
+[2023-8-24 8:43:47.1692837827581] [INFO] HttpServer init on http://0.0.0.0:3147
+[2023-8-24 14:54:19.1692860059648] [FATAL] setsockopt SO_RCVTIMEO error
+[2023-8-24 14:56:6.1692860166113] [FATAL] setsockopt SO_RCVTIMEO error
+[2023-8-24 14:56:40.1692860200449] [FATAL] setsockopt SO_RCVTIMEO error
+[2023-8-24 14:56:52.1692860212575] [FATAL] setsockopt SO_RCVTIMEO error
+[2023-8-24 14:56:52.1692860212575] [FATAL] 1
+[2023-8-24 14:58:32.1692860312664] [FATAL] setsockopt SO_RCVTIMEO error
+[2023-8-24 14:58:32.1692860312664] [FATAL] 22
+[2023-8-24 14:59:0.1692860340955] [FATAL] setsockopt SO_RCVTIMEO error
+[2023-8-24 14:59:0.1692860340955] [FATAL] Invalid argument
+[2023-8-24 14:59:27.1692860367900] [FATAL] setsockopt SO_RCVTIMEO error
+[2023-8-24 14:59:27.1692860367900] [FATAL] Operation not permitted
+[2023-8-24 15:1:19.1692860479500] [FATAL] setsockopt SO_RCVTIMEO error
+[2023-8-24 21:24:49.1692883489380] [DEBUG] Init urls
+[2023-8-24 21:24:49.1692883489380] [INFO] HttpServer init on http://0.0.0.0:3147
+[2023-8-24 21:24:51.1692883491271] [DEBUG] HttpRequest from 172.19.160.1:26537
+[2023-8-24 21:24:51.1692883491271] [DEBUG] The HttpRequest- http://172.19.170.249:3147/notfound was matched /notfound
+[2023-8-24 21:24:51.1692883491271] [INFO]  GET	[172.19.160.1:26537]	|text/html|	<200>(http://172.19.170.249:3147/notfound)
+[2023-8-24 21:25:19.1692883519761] [DEBUG] HttpRequest from 172.19.160.1:26590
+[2023-8-24 21:25:19.1692883519761] [WARN] This request is not a request
+	GET http://172.19.170.249:3147/chameleon HTTP/1.1
+
+[2023-8-24 21:25:19.1692883519761] [DEBUG] The HttpRequest- http://172.19.170.249:3147/chameleon was matched /notfound
+[2023-8-24 21:25:19.1692883519761] [INFO]  	GET	[172.19.160.1:26590]	|text/html|	<200>(http://172.19.170.249:3147/chameleon)
+[2023-8-24 21:25:20.1692883520344] [DEBUG] HttpRequest from 172.19.160.1:26591
+[2023-8-24 21:25:20.1692883520344] [WARN] This request is not a request
+	GET http://172.19.170.249:3147/chameleon HTTP/1.1
+
+[2023-8-24 21:25:20.1692883520344] [DEBUG] The HttpRequest- http://172.19.170.249:3147/chameleon was matched /notfound
+[2023-8-24 21:25:20.1692883520344] [INFO]  	GET	[172.19.160.1:26591]	|text/html|	<200>(http://172.19.170.249:3147/chameleon)
+[2023-8-24 21:25:20.1692883520515] [DEBUG] HttpRequest from 172.19.160.1:26592
+[2023-8-24 21:25:20.1692883520515] [WARN] This request is not a request
+	GET http://172.19.170.249:3147/chameleon HTTP/1.1
+
+[2023-8-24 21:25:20.1692883520515] [DEBUG] The HttpRequest- http://172.19.170.249:3147/chameleon was matched /notfound
+[2023-8-24 21:25:20.1692883520515] [INFO]  	GET	[172.19.160.1:26592]	|text/html|	<200>(http://172.19.170.249:3147/chameleon)
+[2023-8-24 21:25:20.1692883520699] [DEBUG] HttpRequest from 172.19.160.1:26593
+[2023-8-24 21:25:20.1692883520699] [WARN] This request is not a request
+	GET http://172.19.170.249:3147/chameleon HTTP/1.1
+
+[2023-8-24 21:25:20.1692883520699] [DEBUG] The HttpRequest- http://172.19.170.249:3147/chameleon was matched /notfound
+[2023-8-24 21:25:20.1692883520699] [INFO]  	GET	[172.19.160.1:26593]	|text/html|	<200>(http://172.19.170.249:3147/chameleon)
+[2023-8-24 21:25:20.1692883520872] [DEBUG] HttpRequest from 172.19.160.1:26595
+[2023-8-24 21:25:20.1692883520872] [WARN] This request is not a request
+	GET http://172.19.170.249:3147/chameleon HTTP/1.1
+
+[2023-8-24 21:25:20.1692883520872] [DEBUG] The HttpRequest- http://172.19.170.249:3147/chameleon was matched /notfound
+[2023-8-24 21:25:20.1692883520872] [INFO]  	GET	[172.19.160.1:26595]	|text/html|	<200>(http://172.19.170.249:3147/chameleon)
+[2023-8-24 21:25:21.1692883521063] [DEBUG] HttpRequest from 172.19.160.1:26596
+[2023-8-24 21:25:21.1692883521063] [WARN] This request is not a request
+	GET http://172.19.170.249:3147/chameleon HTTP/1.1
+
+[2023-8-24 21:25:21.1692883521063] [DEBUG] The HttpRequest- http://172.19.170.249:3147/chameleon was matched /notfound
+[2023-8-24 21:25:21.1692883521063] [INFO]  	GET	[172.19.160.1:26596]	|text/html|	<200>(http://172.19.170.249:3147/chameleon)
+[2023-8-24 21:25:21.1692883521257] [DEBUG] HttpRequest from 172.19.160.1:26598
+[2023-8-24 21:25:21.1692883521257] [WARN] This request is not a request
+	GET http://172.19.170.249:3147/chameleon HTTP/1.1
+
+[2023-8-24 21:25:21.1692883521257] [DEBUG] The HttpRequest- http://172.19.170.249:3147/chameleon was matched /notfound
+[2023-8-24 21:25:21.1692883521258] [INFO]  	GET	[172.19.160.1:26598]	|text/html|	<200>(http://172.19.170.249:3147/chameleon)
+[2023-8-24 21:25:23.1692883523828] [DEBUG] HttpRequest from 172.19.160.1:26603
+[2023-8-24 21:25:23.1692883523828] [WARN] This request is not a request
+	GET http://172.19.170.249:3147/chameleon HTTP/1.1
+
+[2023-8-24 21:25:23.1692883523828] [DEBUG] The HttpRequest- http://172.19.170.249:3147/chameleon was matched /notfound
+[2023-8-24 21:25:23.1692883523828] [INFO]  	GET	[172.19.160.1:26603]	|text/html|	<200>(http://172.19.170.249:3147/chameleon)
+[2023-8-24 21:25:24.1692883524070] [DEBUG] HttpRequest from 172.19.160.1:26604
+[2023-8-24 21:25:24.1692883524070] [WARN] This request is not a request
+	GET http://172.19.170.249:3147/chameleon HTTP/1.1
+
+[2023-8-24 21:25:24.1692883524070] [DEBUG] The HttpRequest- http://172.19.170.249:3147/chameleon was matched /notfound
+[2023-8-24 21:25:24.1692883524070] [INFO]  	GET	[172.19.160.1:26604]	|text/html|	<200>(http://172.19.170.249:3147/chameleon)
+[2023-8-24 21:25:24.1692883524252] [DEBUG] HttpRequest from 172.19.160.1:26605
+[2023-8-24 21:25:24.1692883524253] [WARN] This request is not a request
+	GET http://172.19.170.249:3147/chameleon HTTP/1.1
+
+[2023-8-24 21:25:24.1692883524253] [DEBUG] The HttpRequest- http://172.19.170.249:3147/chameleon was matched /notfound
+[2023-8-24 21:25:24.1692883524253] [INFO]  	GET	[172.19.160.1:26605]	|text/html|	<200>(http://172.19.170.249:3147/chameleon)
+[2023-8-24 21:25:24.1692883524439] [DEBUG] HttpRequest from 172.19.160.1:26607
+[2023-8-24 21:25:24.1692883524439] [WARN] This request is not a request
+	GET http://172.19.170.249:3147/chameleon HTTP/1.1
+
+[2023-8-24 21:25:24.1692883524439] [DEBUG] The HttpRequest- http://172.19.170.249:3147/chameleon was matched /notfound
+[2023-8-24 21:25:24.1692883524439] [INFO]  	GET	[172.19.160.1:26607]	|text/html|	<200>(http://172.19.170.249:3147/chameleon)
+[2023-8-24 21:25:24.1692883524629] [DEBUG] HttpRequest from 172.19.160.1:26608
+[2023-8-24 21:25:24.1692883524629] [WARN] This request is not a request
+	GET http://172.19.170.249:3147/chameleon HTTP/1.1
+
+[2023-8-24 21:25:24.1692883524629] [DEBUG] The HttpRequest- http://172.19.170.249:3147/chameleon was matched /notfound
+[2023-8-24 21:25:24.1692883524629] [INFO]  	GET	[172.19.160.1:26608]	|text/html|	<200>(http://172.19.170.249:3147/chameleon)
+[2023-8-24 21:25:24.1692883524812] [DEBUG] HttpRequest from 172.19.160.1:26610
+[2023-8-24 21:25:24.1692883524812] [WARN] This request is not a request
+	GET http://172.19.170.249:3147/chameleon HTTP/1.1
+
+[2023-8-24 21:25:24.1692883524812] [DEBUG] The HttpRequest- http://172.19.170.249:3147/chameleon was matched /notfound
+[2023-8-24 21:25:24.1692883524812] [INFO]  	GET	[172.19.160.1:26610]	|text/html|	<200>(http://172.19.170.249:3147/chameleon)
+[2023-8-24 21:25:24.1692883525008] [DEBUG] HttpRequest from 172.19.160.1:26611
+[2023-8-24 21:25:24.1692883525008] [WARN] This request is not a request
+	GET http://172.19.170.249:3147/chameleon HTTP/1.1
+
+[2023-8-24 21:25:24.1692883525008] [DEBUG] The HttpRequest- http://172.19.170.249:3147/chameleon was matched /notfound
+[2023-8-24 21:25:24.1692883525008] [INFO]  	GET	[172.19.160.1:26611]	|text/html|	<200>(http://172.19.170.249:3147/chameleon)
+[2023-8-24 21:25:25.1692883525201] [DEBUG] HttpRequest from 172.19.160.1:26612
+[2023-8-24 21:25:25.1692883525201] [WARN] This request is not a request
+	GET http://172.19.170.249:3147/chameleon HTTP/1.1
+
+[2023-8-24 21:25:25.1692883525201] [DEBUG] The HttpRequest- http://172.19.170.249:3147/chameleon was matched /notfound
+[2023-8-24 21:25:25.1692883525202] [INFO]  	GET	[172.19.160.1:26612]	|text/html|	<200>(http://172.19.170.249:3147/chameleon)
+[2023-8-24 21:25:25.1692883525402] [DEBUG] HttpRequest from 172.19.160.1:26613
+[2023-8-24 21:25:25.1692883525402] [WARN] This request is not a request
+	GET http://172.19.170.249:3147/chameleon HTTP/1.1
+
+[2023-8-24 21:25:25.1692883525402] [DEBUG] The HttpRequest- http://172.19.170.249:3147/chameleon was matched /notfound
+[2023-8-24 21:25:25.1692883525402] [INFO]  	GET	[172.19.160.1:26613]	|text/html|	<200>(http://172.19.170.249:3147/chameleon)
+[2023-8-24 21:25:37.1692883537412] [DEBUG] HttpRequest from 172.19.160.1:26624
+[2023-8-24 21:25:41.1692883541307] [WARN] This request is not a request
+	GET http://172.19.170.249:3147/chameleon HTTP/1.1
+
+[2023-8-24 21:25:41.1692883541307] [DEBUG] The HttpRequest- http://172.19.170.249:3147/chameleon was matched /notfound
+[2023-8-24 21:25:41.1692883541307] [INFO]  	GET	[172.19.160.1:26624]	|text/html|	<200>(http://172.19.170.249:3147/chameleon)
+[2023-8-24 21:26:23.1692883584013] [DEBUG] HttpRequest from 172.19.160.1:55420
+[2023-8-24 21:26:24.1692883584567] [DEBUG] 
