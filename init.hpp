@@ -1,7 +1,7 @@
 // include each app urls
 #include "apps/example/urls.hpp"
 
-const string project_name = "xzmu_np";
+const string project_name = "temp";
 
 HIBERLITE_EXPORT_CLASS(exampleModel)
 
